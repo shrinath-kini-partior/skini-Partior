@@ -1,7 +1,4 @@
 - 👋 Hi, I’m SKINI @skini-Partior
-- 👀 I’m interested in Ethereum based Blockchain Solutions
-- 🌱 I’m currently learning Quorum.
-- 💞️ I’m looking to collaborate on Partior.
 
 
 <!---
